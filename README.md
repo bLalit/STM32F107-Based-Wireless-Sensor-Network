@@ -1,6 +1,7 @@
 "# STM32F107-Based-Wireless-Sensor-Network" 
 
 Phase 1 - Implemented a simple packet parser to parse weather packets.
+          The 
 
 Phase 2 - Decreased parsing bottleneck by implementing buffers and designing a new I/O driver to recieve and transmit data.
 
